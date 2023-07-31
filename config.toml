@@ -4,10 +4,10 @@ version = 11
 
 [telegram]
 # Client API ID used for authentication, obtained from https://my.telegram.org/apps
-api_id = 123456
+api_id = 579307
 
 # Client API hash used for authentication, obtained from https://my.telegram.org/apps
-api_hash = "0123456789abcdef0123456789abcdef"
+api_hash = "05c676a758ecebfc179403a590c87a0a"
 
 # Session name, used by Telethon for saving login details and caching entities
 # Filename on disk would be "main.session" (and "main.session-journal" while running)
